@@ -1,0 +1,15 @@
+debug/main.o
+debug/mainwin.o
+debug/ball.o
+debug/club.o
+debug/cushion.o
+debug/itembase.o
+debug/graphicsview.o
+debug/baseoperator.o
+debug/defualtoperator.o
+debug/undocommands.o
+debug/moc_mainwin.o
+debug/moc_graphicsview.o
+debug/moc_baseoperator.o
+debug/moc_defualtoperator.o
+debug/moc_undocommands.o
