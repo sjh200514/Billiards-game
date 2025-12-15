@@ -1,5 +1,9 @@
 ﻿# 南京大学程序设计实训小组项目
 ## 在Qt框架下利用C++与小组成员合作实现台球游戏
 ## 小组成员:dyh lx sjh slx czy
+**开发环境：Qt Creator 6.13.0
+编程语言：C++
+图形库：Qt Graphics View Framework
+物理引擎：自定义简化物理引擎**
 
 
